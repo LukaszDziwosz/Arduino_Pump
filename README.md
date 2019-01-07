@@ -1,6 +1,6 @@
 # Arduino_Pump
 
-Arduino_Pump is a DC pump or motor controller program for Arduino Nano or other Arduino type device. Ideal for noisy PC water cooling pumps. But it will work with any DC pump, motor or fans. Please check the [schematics](https://github.com/LukaszDziwosz/Arduino_Pump/blob/master/schematics.png) to build your device.
+Arduino_Pump is a DC pump or motor controller program for Arduino Nano or other Arduino type device. Ideal for noisy PC water cooling pumps. But it will work with any DC pump, motor or fan. Please check the [schematics](https://github.com/LukaszDziwosz/Arduino_Pump/blob/master/schematics.png) to build your device.
 Watch device in action on [YouTube](https://www.youtube.com/watch?v=E39hx9vBkv0).
 
 ## Installation
